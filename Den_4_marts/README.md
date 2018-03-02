@@ -4,7 +4,7 @@ Group Mushy bread github: https://github.com/PatrickFenger/pythonAssignments
 
 Dataset link: https://raw.githubusercontent.com/PatrickFenger/pythonAssignments/master/KoreanConflict.csv
 
-Q1: How many soldiers entered from a marine corps branch?
+### Q1: How many soldiers entered from a marine corps branch?
 
 Svar 1: MARINE CORPS har fleste antal 4509 
 
