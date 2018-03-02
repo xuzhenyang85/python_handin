@@ -9,13 +9,6 @@ Q1: How many soldiers entered from a marine corps branch?
 Svar 1: MARINE CORPS har fleste antal 4509 
 
 
-BRANCH
-
-AIR FORCE        1552
-ARMY            29856
-MARINE CORPS     4509
-NAVY              657
-
 | BRANCH    	|               |
 | ------------- |:-------------:| 
 | AIR FORCE 	| 		1552 	| 
