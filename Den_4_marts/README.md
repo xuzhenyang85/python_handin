@@ -5,6 +5,7 @@ Group Mushy bread github: https://github.com/PatrickFenger/pythonAssignments
 Dataset link: https://raw.githubusercontent.com/PatrickFenger/pythonAssignments/master/KoreanConflict.csv
 
 Q1: How many soldiers entered from a marine corps branch?
+
 Svar 1: MARINE CORPS har fleste antal 4509 
 
 BRANCH
@@ -15,6 +16,7 @@ MARINE CORPS     4509
 
 
  Q2: Which enrollment was the most common?
+ 
  Svar 2: ACTIVE - REGULAR har de fleste antal som står på 23973
  
  ENROLLMENT
@@ -24,6 +26,7 @@ MARINE CORPS     4509
 
 
  Q3: Was there an ethnicity majority throughout the war - If so, which?
+ 
  Svar 3: Ja det er der. 
 
  AMERICAN INDIAN/ALASKA NATIVE                                                        3258
@@ -45,4 +48,5 @@ MARINE CORPS     4509
  ACCIDENT: 80,DECLARED: 24,DIED OF WOUNDS:18, KILLED IN ACTION:168
 
  Q5: Which Home state suffered the most losses?
+ 
  Svar 5: CALIFORNIA ligger på 2582
