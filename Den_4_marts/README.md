@@ -16,15 +16,17 @@ ARMY            29856
 MARINE CORPS     4509
 NAVY              657
 
+| BRANCH    	|               |
+| ------------- |:-------------:| 
+| AIR FORCE 	| 		1552 	| 
+| ARMY     		| 		29856   | 
+| MARINE CORPS 	| 		4509    |
+| NAVY			| 		657    	| 
 
 Q2: Which enrollment was the most common?
  
 Svar 2: ACTIVE - REGULAR har de fleste antal som står på 23973
- 
- ENROLLMENT
- ACTIVE - GUARD/RESERVE     5089
- ACTIVE - REGULAR          23973
- SELECTED SERVICE           7512
+
 
 | ENROLLMENT    			|               |
 | ------------------------- |:-------------:| 
@@ -48,6 +50,13 @@ Svar 2: ACTIVE - REGULAR har de fleste antal som står på 23973
  JAPANESE                                                                              198
  NOT SPECIFIED                                                                       32122
  PUERTO RICAN                                                                          534
+
+| AMERICAN INDIAN/ALASKA NATIVE     													  	|               |
+| ----------------------------------------------------------------------------------------	|:-------------:| 
+| ASIAN  (ALL BUT USAR INCLUDE PACIFIC ISLANDER IN THIS CODE)								| 		3258 	| 
+| BLACK OR AFRICAN AMERICAN    																| 		23973   | 
+| NATIVE HAWAIIAN OR OTHER PACIFIC ISLANDER  (USAR SUBMITS F FOR PACIFIC ISLANDER)		  	| 		7512    | 
+
 
  Q4: Which division had the most casualties?
 
