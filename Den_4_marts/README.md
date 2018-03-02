@@ -32,17 +32,6 @@ Svar 2: ACTIVE - REGULAR har de fleste antal som står på 23973
  
  Svar 3: Ja det er der. 
 
- AMERICAN INDIAN/ALASKA NATIVE                                                        3258
- ASIAN  (ALL BUT USAR INCLUDE PACIFIC ISLANDER IN THIS CODE)                           235
- BLACK OR AFRICAN AMERICAN                                                            3130
- NATIVE HAWAIIAN OR OTHER PACIFIC ISLANDER  (USAR SUBMITS F FOR PACIFIC ISLANDER)      142
- WHITE                                                                               29405
- CHINESE                                                                                18
- HISPANIC OR LATINO                                                                     40
- INDIAN TRIBES US                                                                      103
- JAPANESE                                                                              198
- NOT SPECIFIED                                                                       32122
- PUERTO RICAN                                                                          534
 
 | ETHNICITY & ETHNICITY_1 & ETHNICITY_2  													|               |
 | ----------------------------------------------------------------------------------------	|:-------------:| 
@@ -62,7 +51,7 @@ Svar 2: ACTIVE - REGULAR har de fleste antal som står på 23973
  Q4: Which division had the most casualties?
 
  Svar 4: 
- Division 1 MAR DIV har fleste dødtal
+ Division 1 MAR DIV har fleste dødtal, 
  ACCIDENT: 80,DECLARED: 24,DIED OF WOUNDS:18, KILLED IN ACTION:168
 
  Q5: Which Home state suffered the most losses?
