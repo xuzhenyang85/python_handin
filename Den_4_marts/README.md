@@ -4,7 +4,7 @@ Group Mushy bread github: https://github.com/PatrickFenger/pythonAssignments
 
 Dataset link: https://raw.githubusercontent.com/PatrickFenger/pythonAssignments/master/KoreanConflict.csv
 
-### Q1: How many soldiers entered from a marine corps branch?
+#### Q1: How many soldiers entered from a marine corps branch?
 
 Svar 1: MARINE CORPS har fleste antal 4509 
 
@@ -16,7 +16,7 @@ Svar 1: MARINE CORPS har fleste antal 4509
 | MARINE CORPS 	| 		4509    |
 | NAVY			| 		657    	| 
 
-Q2: Which enrollment was the most common?
+#### Q2: Which enrollment was the most common?
  
 Svar 2: ACTIVE - REGULAR har de fleste antal som står på 23973
 
@@ -28,9 +28,9 @@ Svar 2: ACTIVE - REGULAR har de fleste antal som står på 23973
 | SELECTED SERVICE 			| 		7512    | 
 
 
- Q3: Was there an ethnicity majority throughout the war - If so, which?
+#### Q3: Was there an ethnicity majority throughout the war - If so, which?
  
- Svar 3: Ja det er der. 
+Svar 3: Ja det er der. 
 
 
 | ETHNICITY & ETHNICITY_1 & ETHNICITY_2  													|               |
@@ -48,14 +48,14 @@ Svar 2: ACTIVE - REGULAR har de fleste antal som står på 23973
 | NOT SPECIFIED		 																		| 		32122 	| 
 
 
- Q4: Which division had the most casualties?
+#### Q4: Which division had the most casualties?
 
- Svar 4: 
- Division 1 MAR DIV har fleste dødtal, 
- ACCIDENT: 80,DECLARED: 24,DIED OF WOUNDS:18, KILLED IN ACTION:168
+Svar 4: 
+Division 1 MAR DIV har fleste dødtal, 
+ACCIDENT: 80,DECLARED: 24,DIED OF WOUNDS:18, KILLED IN ACTION:168
 
- Q5: Which Home state suffered the most losses?
+#### Q5: Which Home state suffered the most losses?
  
- Svar 5: CALIFORNIA ligger på 2582
+Svar 5: CALIFORNIA ligger på 2582
 
- [Solution code](https://github.com/xuzhenyang85/python_handin/blob/master/Den_4_marts/week5_handin.ipynb)
+[Solution code](https://github.com/xuzhenyang85/python_handin/blob/master/Den_4_marts/week5_handin.ipynb)
