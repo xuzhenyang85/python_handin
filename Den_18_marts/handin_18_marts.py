@@ -5,8 +5,7 @@ import gzip
 
 # get URL and download the fil by webget
 url = 'https://datasets.imdbws.com/title.basics.tsv.gz'
-# webget.download(url)
-
+webget.download(url)
 
 print('*********************************** Question 1 ********************************')
 
