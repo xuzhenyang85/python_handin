@@ -33,32 +33,25 @@ Our answer to question 4 takes a while. Don't worry it has not crashed - give it
 
 #### Question 1
 
-![Question 1](img/Question_1.png)
+![Question 1](img/top5.png)
 
 #### Question 2
 
-![Question 2](img/Question_2.png)
+![Question 2](img/repeated_words.png)
 
-#### Question 3
-
-![Question 3](img/Question_3.png)
-
-#### Question 4
-
-![Question 4](img/Question_4.png)
 
 
 ### Questions
 
-Question 1: Which year was the most movies released?
+Question 1: What is the most used words in the songs?
 
-Question 2: Which year was most series ended?
+Question 2: How many times are each word repeated in a song? (Or perhaps - what song repeats the top 4 repeated words the most? - finds the most repetitive song)
 
-Question 3: Which genres has the longest runtime per movies?
+Question 3: What song uses the word "X" the most time? (X meaning a specific word, choose your own!)
 
-Question 4: Which genre covers the most movies?
+Question 4: What is the average number of words per song?
 
-Question 5: What is the average runtime on adult films?
+Question 5: Show the distribution of number of words in the songs. (Example: how many songs have 5-10 words, 10-20 words)
 
 ### Answers
 
