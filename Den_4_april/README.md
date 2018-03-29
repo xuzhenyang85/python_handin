@@ -21,7 +21,7 @@ import os
 
 Clone from git repository, `cd Den_4_april` and run the project from command promt with the command line:
 
-`python run.py`
+`python handin_4_april.py`
 
 Or by opening the run file in your chosen environment and running the file.
 
