@@ -69,7 +69,8 @@ Range 30k - 40k are: [('Film & Video', 2043), ('Technology', 1868), ('Design', 1
 Range 40k - 50k are: [('Technology', 2559), ('Film & Video', 2235), ('Design', 1542), ('Games', 1257), ('Food', 1140), ('Publishing', 598), ('Fashion', 576), ('Music', 540), ('Art', 355), ('Theater', 154), ('Photography', 148), ('Journalism', 137), ('Crafts', 129), ('Comics', 126), ('Dance', 38)]
 
 Range 60k and more are: [('Technology', 7440), ('Film & Video', 6338), ('Games', 3616), ('Design', 3365), ('Food', 2695), ('Music', 1148), ('Publishing', 1085), ('Fashion', 979), ('Art', 948), ('Theater', 392), ('Journalism', 333), ('Photography', 244), ('Crafts', 211), ('Comics', 177), ('Dance', 67)]
-``
+```
+
 ![Question 5](images/10k.png)
 ![Question 5](images/20k.png)
 ![Question 5](images/30k.png)
