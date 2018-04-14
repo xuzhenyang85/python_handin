@@ -11,15 +11,15 @@
 The following dependencies should be installed in your system, either via `conda install` or `pip install`
 
 ```python
-from collections import Counter
 import matplotlib.pyplot as plt
+from collections import Counter
 import pandas as pd
 import statistics
 import webget
 import os
 ```
 
-Clone from git repository, `cd Den_4_april` and run the project from command promt with the command line:
+Clone from git repository, `cd Assignment8` and run the project from command promt with the command line:
 
 `python run.py`
 
